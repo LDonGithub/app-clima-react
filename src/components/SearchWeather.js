@@ -2,7 +2,10 @@ import React from "react";
 
 const SearchWeather = () => {
     return(
-        <form></form>
+        <form>
+            <input />
+            <button >Search</button>
+        </form>
     )
 }
 
